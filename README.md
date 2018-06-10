@@ -1,6 +1,8 @@
 # CAseriation
 ver 0.3
 
+[![DOI](https://zenodo.org/badge/107096361.svg)](https://zenodo.org/badge/latestdoi/107096361)
+
 CAseriation allows to sort the rows and columns of the input contingency table according to the scores of rows and columns on the Correspondence Analysis' dimension selected by the user. The package also allows to plot the CA scatterplot of selected dimensions, and to seek for clusters in the dataset. As for seriation, two plots are returned, displaying the sorted contingency table. The results are also exported into an Excel spreadsheet.
 
 In archaeology there is often the need to seriate contingency tables in order to devise a relative chronology of different types of contexts (e.g., graves). Different approaches exists in literature to achieve a best ordering. The method implemented in the 'CAseriation' package is the ordination of rows and columns of a contingency table according to their scores on the Correspondence Analysis' dimension selected by the user.

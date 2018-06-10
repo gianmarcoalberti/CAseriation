@@ -13,7 +13,7 @@ CAseriation allows to sort the rows and columns of the input contingency table a
 Package: \tab CAseriation\cr
 Type: \tab Package\cr
 Version: \tab 0.2\cr
-Date: \tab 2016-09-12\cr
+Date: \tab 2018-06-10\cr
 License: \tab GPL\cr
 }
 In archaeology there is often the need to seriate contingency tables in order to devise a relative chronology of different types of contexts (e.g., graves). Different approaches exists in literature to achieve a best ordering. The method implemented in the 'CAseriation' package is the ordination of rows and columns of a contingency table according to their scores on the Correspondence Analysis' dimension selected by the user. 

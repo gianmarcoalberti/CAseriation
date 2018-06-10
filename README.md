@@ -1,5 +1,5 @@
 # CAseriation
-ver 0.2
+ver 0.3
 
 CAseriation allows to sort the rows and columns of the input contingency table according to the scores of rows and columns on the Correspondence Analysis' dimension selected by the user. The package also allows to plot the CA scatterplot of selected dimensions, and to seek for clusters in the dataset. As for seriation, two plots are returned, displaying the sorted contingency table. The results are also exported into an Excel spreadsheet.
 
@@ -71,13 +71,13 @@ install.packages("devtools", dependencies=TRUE)
 ```r
 library(devtools)
 ```
-3) download the 'CAseriation' package  from GitHub via the 'devtools''s command: 
+3) download the 'CAseriation' package from GitHub via the 'devtools''s command: 
 ```r
-install_github("gianmarcoalberti/CAseriation")
+install_github("gianmarcoalberti/CAseriation@v0.3")
 ```
 4) load the package: 
 ```r
-library(CAinterprTools)
+library(CAseriation)
 ```
 5) enjoy!
 
